@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "sendit.web"
+		},
+		{
+			"path": "sendit.smart-contracts"
+		},
+		{
+			"path": "sendit.contract-api"
+		},
+		{
+			"path": "sendit.diagram"
+		}
+	],
+	"settings": {}
+}
